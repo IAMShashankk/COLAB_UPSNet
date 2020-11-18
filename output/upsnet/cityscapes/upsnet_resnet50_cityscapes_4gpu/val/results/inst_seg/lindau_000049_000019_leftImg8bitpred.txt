@@ -1,0 +1,3 @@
+seg_results/lindau_000049_000019_leftImg8bit/lindau_000049_000019_leftImg8bit_car_0.png 26 0.33436134457588196
+seg_results/lindau_000049_000019_leftImg8bit/lindau_000049_000019_leftImg8bit_car_1.png 26 0.057819318026304245
+seg_results/lindau_000049_000019_leftImg8bit/lindau_000049_000019_leftImg8bit_car_2.png 26 0.05580585449934006

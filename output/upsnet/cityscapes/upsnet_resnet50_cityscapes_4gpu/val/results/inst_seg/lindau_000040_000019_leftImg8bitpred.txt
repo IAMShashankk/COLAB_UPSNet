@@ -1,0 +1,2 @@
+seg_results/lindau_000040_000019_leftImg8bit/lindau_000040_000019_leftImg8bit_rider_0.png 25 0.05016746371984482
+seg_results/lindau_000040_000019_leftImg8bit/lindau_000040_000019_leftImg8bit_motorcycle_0.png 32 0.7582312226295471
